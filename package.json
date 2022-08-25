@@ -1,0 +1,9 @@
+{
+  "name": "required-throughput-estimation",
+  "version": "1.0.0",
+  "description": "script for estimating the minimum throughput required, given a tolerable amount of waiting time in queues",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Bruno Agostini",
+  "license": "MIT"
+}
